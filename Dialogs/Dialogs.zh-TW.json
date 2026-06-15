@@ -1,4 +1,4 @@
-﻿{
+{
   "AscendingRpmValues": "升序的 RPM 值",
   "CalibrationAvoidColumn": "避讓",
   "CalibrationAvoidColumnTooltip": "將點標記為避讓區域的一部分",
@@ -22,6 +22,9 @@
   "CustomSensorsHelpPart2": "若要建立新的自訂感測器，請點擊右下角的大“+”符號按鈕，然後從可用的類型中選擇。",
   "CustomSensorsHelpPart3": "若要取得特定自訂感測器類型如何運作的詳細資訊，請新增它，然後點擊其卡片左上角的圖示。",
   "EULALicenses": "使用者授權合約",
+  "ExitFully": "完全結束",
+  "ExitKeepService": "保持服務執行",
+  "ExitMessage": "此 Fan Control 介面實例將停止。要完全結束並停止所有風扇控制，還是讓服務在背景繼續執行？",
   "FailedRefreshSleep": "從睡眠狀態恢復後重新整理失敗",
   "GraphCopy": "複製圖表",
   "GraphPaste": "貼上圖表",

@@ -1,4 +1,4 @@
-﻿{
+{
   "AscendingRpmValues": "(wartości RPM rosnąco)",
   "CalibrationAvoidColumn": "Unikaj",
   "CalibrationAvoidColumnTooltip": "Oznacza punkty jako część obszaru unikania",
@@ -22,6 +22,9 @@
   "CustomSensorsHelpPart2": "Aby utworzyć nowy czujnik, kliknij duży przycisk \"+\" w prawym dolnym rogu i wybierz jeden z dostępnych typów.",
   "CustomSensorsHelpPart3": "Aby uzyskać szczegóły dotyczące działania konkretnego typu czujnika, dodaj go i kliknij jego ikonę w lewym górnym rogu karty.",
   "EULALicenses": "Umowa licencyjna użytkownika końcowego",
+  "ExitFully": "Zamknij całkowicie",
+  "ExitKeepService": "Pozostaw usługę uruchomioną",
+  "ExitMessage": "Ta instancja interfejsu Fan Control zostanie zatrzymana. Zamknąć całkowicie, aby zatrzymać całe sterowanie wentylatorami, czy pozostawić usługę działającą w tle?",
   "FailedRefreshSleep": "Nie udało się odświeżyć po wybudzeniu",
   "GraphCopy": "Kopiuj wykres",
   "GraphPaste": "Wklej wykres",

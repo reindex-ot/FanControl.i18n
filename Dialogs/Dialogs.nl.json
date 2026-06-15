@@ -1,4 +1,4 @@
-﻿{
+{
   "AscendingRpmValues": "Oplopende RPM-waarden",
   "CalibrationAvoidColumn": "Vermijden",
   "CalibrationAvoidColumnTooltip": "Markeert punten als onderdeel van een vermijdingsgebied",
@@ -22,6 +22,9 @@
   "CustomSensorsHelpPart2": "Om een ​​nieuwe, aangepaste sensor te maken, klikt u op de grote knop met het \"+\"-teken rechtsonder en selecteert u uit de beschikbare typen.",
   "CustomSensorsHelpPart3": "Voor meer informatie over de werking van een specifiek aangepast sensortype voegt u het toe en klikt u op het bijbehorende pictogram linksboven op de kaart.",
   "EULALicenses": "EULA/Licenties",
+  "ExitFully": "Volledig afsluiten",
+  "ExitKeepService": "Service actief houden",
+  "ExitMessage": "Deze Fan Control UI-instantie wordt gestopt. Volledig afsluiten om alle ventilatorregeling te stoppen, of de service op de achtergrond actief houden?",
   "FailedRefreshSleep": "Vernieuwen mislukt na hervatten uit slaapstand",
   "GraphCopy": "Grafiek kopiëren",
   "GraphPaste": "Grafiek plakken",

@@ -1,4 +1,4 @@
-﻿{
+{
   "AscendingRpmValues": "Növekvő RPM értékek",
   "CalibrationAvoidColumn": "Elkerülés",
   "CalibrationAvoidColumnTooltip": "A pontokat az elkerülési tartomány részeként jelöli",
@@ -22,6 +22,9 @@
   "CustomSensorsHelpPart2": "Új egyéni érzékelő létrehozásához kattintson a jobb alsó sarokban található nagy \"+\" jel gombra, és válasszon a rendelkezésre álló típusok közül.",
   "CustomSensorsHelpPart3": "Ha részleteket szeretne megtudni egy adott egyéni érzékelőtípus működéséről, adja hozzá azt, és kattintson az ikonjára a kártya bal felső sarkában.",
   "EULALicenses": "EULA",
+  "ExitFully": "Teljes kilépés",
+  "ExitKeepService": "Szolgáltatás futtatása a háttérben",
+  "ExitMessage": "Ez a Fan Control felületi példány leáll. Teljes kilépéssel minden ventilátorvezérlés leáll, vagy a szolgáltatás fusson tovább a háttérben?",
   "FailedRefreshSleep": "Az alvásból való visszatérés után nem sikerült frissíteni",
   "GraphCopy": "Grafikon másolása",
   "GraphPaste": "Grafikon beillesztése",

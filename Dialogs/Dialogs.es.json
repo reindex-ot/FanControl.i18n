@@ -1,4 +1,4 @@
-﻿{
+{
   "AscendingRpmValues": "Valores de RPM ascendentes",
   "CalibrationAvoidColumn": "Evitar",
   "CalibrationAvoidColumnTooltip": "Marca puntos como parte de una región de evitación",
@@ -22,6 +22,9 @@
   "CustomSensorsHelpPart2": "Para crear un nuevo sensor personalizado, haz clic en el botón grande de abajo a la derecha con el símbolo \"+\" y selecciona uno de los tipos disponibles de la columna izquierda.",
   "CustomSensorsHelpPart3": "Para obtener detalles de cómo funciona cada tipo específico de sensor personalizado, añádelo y haz clic sobre el icono en la parte superior izquierda del panel.",
   "EULALicenses": "EULA",
+  "ExitFully": "Salir por completo",
+  "ExitKeepService": "Mantener el servicio en ejecución",
+  "ExitMessage": "Esta instancia de la interfaz de Fan Control se detendrá. ¿Salir por completo para detener todo el control de ventiladores, o mantener el servicio en ejecución en segundo plano?",
   "FailedRefreshSleep": "Fallo al actualizar después de reanudar desde el reposo",
   "GraphCopy": "Copiar gráfico",
   "GraphPaste": "Pegar gráfico",

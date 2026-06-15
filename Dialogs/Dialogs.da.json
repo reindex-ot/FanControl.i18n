@@ -1,4 +1,4 @@
-﻿{
+{
   "AscendingRpmValues": "Stigende RPM-værdier",
   "CalibrationAvoidColumn": "Undgå",
   "CalibrationAvoidColumnTooltip": "Markerer punkter som en del af et undgå-område",
@@ -22,6 +22,9 @@
   "CustomSensorsHelpPart2": "For at oprette en ny brugerdefineret sensor skal du klikke på den store \"+\"-knap i nederste højre hjørne og vælge mellem de tilgængelige typer.",
   "CustomSensorsHelpPart3": "For at få detaljer om, hvordan en specifik brugerdefineret sensortype fungerer, skal du tilføje den og klikke på dens ikon øverst til venstre på dens kort.",
   "EULALicenses": "EULA/Licenser",
+  "ExitFully": "Afslut helt",
+  "ExitKeepService": "Behold tjenesten kørende",
+  "ExitMessage": "Denne Fan Control-brugerfladeinstans stoppes. Vil du afslutte helt for at stoppe al blæserstyring, eller lade tjenesten køre i baggrunden?",
   "FailedRefreshSleep": "Kunne ikke opdatere efter genoptagelse fra dvaletilstand",
   "GraphCopy": "Kopiér graf",
   "GraphPaste": "Indsæt graf",

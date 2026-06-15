@@ -1,4 +1,4 @@
-﻿{
+{
   "AscendingRpmValues": "Vzostupné hodnoty otáčok",
   "CalibrationAvoidColumn": "Vyhnúť sa",
   "CalibrationAvoidColumnTooltip": "Označí body ako súčasť oblasti vyhýbania",
@@ -22,6 +22,9 @@
   "CustomSensorsHelpPart2": "Ak chcete vytvoriť nový vlastný senzor, kliknite na veľké tlačidlo \"+\" vpravo dole a vyberte jeden z dostupných typov.",
   "CustomSensorsHelpPart3": "Ak chcete získať podrobnosti o fungovaní konkrétneho typu vlastného senzora, pridajte ho a kliknite na jeho ikonu v ľavom hornom rohu karty.",
   "EULALicenses": "LICENČNÁ ZMLUVA EULA",
+  "ExitFully": "Úplne ukončiť",
+  "ExitKeepService": "Ponechať službu spustenú",
+  "ExitMessage": "Táto inštancia používateľského rozhrania Fan Control sa zastaví. Úplne ukončiť a zastaviť všetko riadenie ventilátorov, alebo ponechať službu spustenú na pozadí?",
   "FailedRefreshSleep": "Nepodarilo sa obnoviť po prebudení zo spánku.",
   "GraphCopy": "Kopírovať graf",
   "GraphPaste": "Vložiť graf",

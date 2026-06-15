@@ -1,4 +1,4 @@
-﻿{
+{
   "AscendingRpmValues": "升序的 RPM 值",
   "CalibrationAvoidColumn": "避让",
   "CalibrationAvoidColumnTooltip": "将点标记为避让区域的一部分",
@@ -22,6 +22,9 @@
   "CustomSensorsHelpPart2": "要创建新自定义传感器，请单击右下角的 + 按钮并选择所需的类型。",
   "CustomSensorsHelpPart3": "要了解特定自定义传感器类型的详细说明，添加它然后单击其卡片左上角的图标。",
   "EULALicenses": "最终用户许可协议",
+  "ExitFully": "完全退出",
+  "ExitKeepService": "保持服务运行",
+  "ExitMessage": "此 Fan Control 界面实例将停止。要完全退出并停止所有风扇控制，还是让服务在后台继续运行？",
   "FailedRefreshSleep": "从睡眠恢复后刷新失败",
   "GraphCopy": "复制图表",
   "GraphPaste": "粘贴图表",

@@ -1,4 +1,4 @@
-﻿{
+{
   "AscendingRpmValues": "Giá trị RPM tăng dần",
   "CalibrationAvoidColumn": "Tránh",
   "CalibrationAvoidColumnTooltip": "Đánh dấu các điểm là một phần của vùng tránh",
@@ -22,6 +22,9 @@
   "CustomSensorsHelpPart2": "Để tạo cảm biến mới, bấm nút dấu \"+\" lớn ở góc dưới bên phải và chọn từ các loại có sẵn.",
   "CustomSensorsHelpPart3": "Để biết chi tiết về một loại cảm biến tùy chỉnh, hãy thêm nó rồi bấm biểu tượng ở góc trái trên của thẻ.",
   "EULALicenses": "Thỏa thuận sử dụng / Giấy phép",
+  "ExitFully": "Thoát hoàn toàn",
+  "ExitKeepService": "Giữ dịch vụ chạy",
+  "ExitMessage": "Phiên bản giao diện Fan Control này sẽ dừng lại. Thoát hoàn toàn để dừng toàn bộ điều khiển quạt, hay giữ dịch vụ chạy nền?",
   "FailedRefreshSleep": "Không thể làm mới sau khi khôi phục từ chế độ ngủ",
   "GraphCopy": "Sao chép đồ thị",
   "GraphPaste": "Dán đồ thị",

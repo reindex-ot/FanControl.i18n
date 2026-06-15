@@ -1,4 +1,4 @@
-﻿{
+{
   "AscendingRpmValues": "Nousevat RPM-arvot",
   "CalibrationAvoidColumn": "Vältä",
   "CalibrationAvoidColumnTooltip": "Merkitsee pisteet osaksi vältettävää aluetta",
@@ -22,6 +22,9 @@
   "CustomSensorsHelpPart2": "Luo uusi anturi valitsemalla oikealla alhaalla olevaa \"+\"-merkkiä painamalla näytettävistä vaihtoehdoista.",
   "CustomSensorsHelpPart3": "Saat lisätietoja eri anturityyppien toiminnasta lisäämällä anturin ja painamalla kortin vasemman yläkulman kuvaketta.",
   "EULALicenses": "Käyttöehdot",
+  "ExitFully": "Sulje kokonaan",
+  "ExitKeepService": "Pidä palvelu käynnissä",
+  "ExitMessage": "Tämä Fan Control -käyttöliittymän ilmentymä suljetaan. Suljetaanko kokonaan, jolloin kaikki tuulettimien ohjaus pysähtyy, vai pidetäänkö palvelu käynnissä taustalla?",
   "FailedRefreshSleep": "Päivitys epäonnistui valmiustilasta palauduttaessa",
   "GraphCopy": "Kopioi graafi",
   "GraphPaste": "Liitä graafi",

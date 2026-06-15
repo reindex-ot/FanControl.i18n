@@ -1,4 +1,4 @@
-﻿{
+{
   "AscendingRpmValues": "Artan RPM değerleri",
   "CalibrationAvoidColumn": "Kaçın",
   "CalibrationAvoidColumnTooltip": "Noktaları bir kaçınma bölgesinin parçası olarak işaretler",
@@ -22,6 +22,9 @@
   "CustomSensorsHelpPart2": "Yeni bir özel sensör oluşturmak için, sağ alttaki büyük \"+\" işaretli düğmeye tıklayın ve mevcut türlerden birini seçin.",
   "CustomSensorsHelpPart3": "Belirli bir özel sensör türünün nasıl çalıştığı hakkında ayrıntı almak için, sensörü ekleyin ve kartının sol üst köşesindeki simgesine tıklayın.",
   "EULALicenses": "EULA",
+  "ExitFully": "Tamamen çık",
+  "ExitKeepService": "Hizmeti çalışır durumda tut",
+  "ExitMessage": "Bu Fan Control arayüz örneği durdurulacak. Tüm fan kontrolünü durdurmak için tamamen çıkılsın mı, yoksa hizmet arka planda çalışmaya devam etsin mi?",
   "FailedRefreshSleep": "Uyku modundan sonra yenileme işlemi başarısız oldu",
   "GraphCopy": "Grafiği kopyala",
   "GraphPaste": "Grafiği yapıştır",

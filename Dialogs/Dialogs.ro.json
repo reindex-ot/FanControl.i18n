@@ -1,4 +1,4 @@
-﻿{
+{
   "AscendingRpmValues": "Valori RPM în creștere",
   "CalibrationAvoidColumn": "Evită",
   "CalibrationAvoidColumnTooltip": "Marchează punctele ca parte a unei regiuni de evitare",
@@ -22,6 +22,9 @@
   "CustomSensorsHelpPart2": "Pentru a crea un senzor personalizat nou, faceți clic pe butonul mare „+” din colțul din dreapta jos și selectați din tipurile disponibile.",
   "CustomSensorsHelpPart3": "Pentru detalii despre cum funcționează un anumit tip de senzor personalizat, adăugați-l și faceți clic pe pictograma sa din stânga sus a cardului.",
   "EULALicenses": "EULA/Licențe",
+  "ExitFully": "Ieșire completă",
+  "ExitKeepService": "Menține serviciul în execuție",
+  "ExitMessage": "Această instanță a interfeței Fan Control se va opri. Ieșiți complet pentru a opri tot controlul ventilatoarelor sau mențineți serviciul în execuție în fundal?",
   "FailedRefreshSleep": "Reîmprospătarea a eșuat după revenirea din repaus/sleep",
   "GraphCopy": "Copiază graficul",
   "GraphPaste": "Lipește graficul",

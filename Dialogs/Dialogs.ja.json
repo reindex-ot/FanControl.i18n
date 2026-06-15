@@ -1,4 +1,4 @@
-﻿{
+{
   "AscendingRpmValues": "RPM値の昇順",
   "CalibrationAvoidColumn": "回避",
   "CalibrationAvoidColumnTooltip": "ポイントを回避領域の一部としてマークします",
@@ -22,6 +22,9 @@
   "CustomSensorsHelpPart2": "新しいカスタムセンサーを作成するには、右下の「+」ボタンをクリックし、利用可能な種類を選択してください",
   "CustomSensorsHelpPart3": "各カスタムセンサーの動作詳細を確認するには、追加後にカード左上のアイコンをクリックしてください",
   "EULALicenses": "エンドユーザーライセンス契約（EULA）/ライセンス",
+  "ExitFully": "完全に終了",
+  "ExitKeepService": "サービスを実行したままにする",
+  "ExitMessage": "この Fan Control UI インスタンスは停止します。すべてのファン制御を停止するために完全に終了しますか？ それともサービスをバックグラウンドで実行したままにしますか？",
   "FailedRefreshSleep": "スリープ復帰後の更新に失敗しました",
   "GraphCopy": "グラフをコピー",
   "GraphPaste": "グラフを貼り付け",
