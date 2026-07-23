@@ -12,7 +12,7 @@
   "DiscrepancyFanCurve": "ファンカーブ「{0}」",
   "DiscrepancyManualValue": "手動で設定された値 {0} %",
   "DiscrepancyPart1": "コントロール「{0}」と目標値の間に不一致が検出されました。",
-  "DiscrepancyPart2": "{0} に正しく応答していません。",
+  "DiscrepancyPart2": "{0} が正しく応答していません。",
   "DiscrepancyPart3": "考えられる原因は次の通りです:",
   "DiscrepancyPart4": "コントロールの最小値が {0} % に制限されている。",
   "DiscrepancyPart5": "コントロール値 (%) と RPM の関係が現在のキャリブレーションと一致していない。",
