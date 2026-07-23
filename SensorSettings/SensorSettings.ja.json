@@ -1,6 +1,6 @@
 {
   "ADLX": "AMD ADLX (AMD GPU、RDNA ベースのもの)",
-  "ApplicationWillRefresh": "アプリを更新します。,
+  "ApplicationWillRefresh": "アプリを更新します。",
   "BeforeRefreshingConfigurationChanged": "更新の前に現在の構成が変更されました。保存しますか？",
   "Controller": "コントローラー (様々なサードパーティー向け)",
   "CopyLHMLog": "LHM のレポートをクリップボードにコピー",
