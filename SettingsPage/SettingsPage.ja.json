@@ -23,5 +23,5 @@
   "StartServiceOnBoot": "起動時にサービスを開始",
   "StartUserLogon": "ユーザーのログオン時にアプリを起動",
   "Symbol": "シンボル",
-  "TaskSchedulerAdminRequired": "タスクスケジューラーでプログラムを Windows の起動時に自動起動するように設定できます。管理者権限が必要です。"
+  "TaskSchedulerAdminRequired": "タスクスケジューラーで Windows の起動時にプログラムを自動起動するように設定できます。管理者権限が必要です。"
 }
