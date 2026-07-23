@@ -36,7 +36,7 @@
   "OtherInstance": "An other instance of FanControl was running under user \"{0}\". It was closed to start this new instance.",
   "PawnIoInformationPart1": "Fan Control でセンサーデータの取得とファンコントロールを行うために PawnIO カーネルドライバーのインストールが必要になりました。",
   "PawnIoInformationPart2": "このドライバーは、これまで使用されていた脆弱性のある従来の WinRing0 ドライバーを置き換えます。これはシステム全体にインストールされます。",
-  "PawnIoInformationPart3": "  "PawnIoInformationPart3": "このドライバーをインストールしなくても Fan Control は使用できますが、LibreHardwareMonitor に関する組み込みセンサーは利用できません。",
+  "PawnIoInformationPart3": "PawnIoInformationPart3": "このドライバーをインストールしなくても Fan Control は使用できますが、LibreHardwareMonitor に関する組み込みセンサーは利用できません。",
   "PawnIoInformationPart4": "NvAPI、ADLX、プラグインなどその他センサープロバイダーは、これまで通り利用できます。",
   "PawnIoInstallationRequired": "PawnIO のインストールが必要です",
   "PawnIoUpdate": "Fan Control を動作させるには、新しいバージョンの PawnIO カーネルドライバーが必要です。以下のバージョンをインストールするには、下のボタンをクリックしてください: {0}",
