@@ -1,8 +1,8 @@
 {
-  "AllowMissingSensor": "見つからないセンサーを許可",
+  "AllowMissingSensor": "見つからないセンサーを許可する",
   "DuplicateIdentifiers": "次の識別子が重複しています: {0}",
   "File": "ファイル",
-  "FileDescription": "カスタムファイルセンサーは、指定したファイルからデータを読み取ります。",
+  "FileDescription": "ファイルカスタムセンサーは、指定したファイルからデータを読み取ります。",
   "FileSensorNotExists": "パス「{0}」のファイルセンサーは存在しません。",
   "FunctionAverage": "選択したすべての温度センサーの平均",
   "FunctionMax": "選択したすべての温度センサーの最大値",
